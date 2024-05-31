@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Personal Information Form</h2>
+
+<form>
+  <label for="city">What City were you born in?</label><br>
+  <input type="text" id="city" name="city"><br><br>
+  <label for="food">What is your favorite food?</label><br>
+  <input type="text" id="food" name="food"><br><br>
+  <label for="car">What was your 1st car?</label><br>
+  <input type="text" id="car" name="car"><br><br>
+  <label for="sibling">What is your Brother/Sister middle name?</label><br>
+  <input type="text" id="sibling" name="sibling"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
